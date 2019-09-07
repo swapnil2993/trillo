@@ -1,0 +1,46 @@
+.hotel-view{
+  background-color: #fff;
+  flex: 1;
+}
+
+.detail {
+  display:flex;
+  justify-content: center;
+  padding: 4.5rem;
+  background-color: $color-light-grey-2;
+  border-bottom: 1px solid $color-light-grey-2;
+  @media only screen and (max-width: $bp-medium) {
+    padding: 3rem;
+  }
+  @media only screen and (max-width: $bp-small) {
+    flex-direction: column;
+    align-items: center;
+  } 
+  } 
+
+ 
+.description {
+  flex: 0 0 60%;
+  margin-right: 2rem;
+  background-color: #fff;
+  font-size: 1.3rem;
+  padding: 4.5rem;
+  box-shadow:0 2rem 5rem rgba(0,0,0, 0.06);
+
+  @media only screen and (max-width: $bp-medium) {
+    padding: 3rem;
+    margin-right: 1.5rem;
+  }
+  @media only screen and (max-width: $bp-small) {
+     margin-right: 0rem;
+    margin-bottom: 3rem;
+  } 
+}
+
+.user-reviews {
+  flex: 1;
+  font-size: 1.3rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
