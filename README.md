@@ -7,7 +7,7 @@ This is a desktop first website.
 ![Screenshot-1](https://github.com/swapnil2993/trillo/blob/master/screenshots/ScreenShot-1.png)
 
 
-![Screenshot-2](https://github.com/swapnil2993/trillo/tree/master/screenshots/ScreenShot-2.png)
+![Screenshot-2](https://github.com/swapnil2993/trillo/blob/master/screenshots/ScreenShot-2.png)
 
 
 Note: This site has been made while undertaking a course from udemy on Advanced css and sass taken by Jonas Schmedtmann
